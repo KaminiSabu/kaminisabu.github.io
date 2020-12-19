@@ -26,4 +26,6 @@ I can also add website on github <a href="https://docs.github.com/en/free-pro-te
 <a href="https://www.wncc-iitb.org/wiki/index.php/The_Web_and_Coding_Club">This</a> is the place to reach out for wiki help in almost all topics covered by WnCC club
 
 <br>
+In order to change the content of website, I need to go to <a href="https://bighome.iitb.ac.in/index.php/apps/files/?dir=/public_html&fileid=6936483">https://bighome.iitb.ac.in/index.php/apps/files/?dir=/public_html&fileid=6936483</a> and <a href="https://github.com/KaminiSabu/kaminisabu.github.io/edit/main/index.md">https://github.com/KaminiSabu/kaminisabu.github.io/edit/main/index.md</a>
+<br>
 I want to make two tabs in the website which will need two different webpages: one is publications and other is academic qualifications and other achievements.
