@@ -105,4 +105,39 @@ This same website is also accessible from github at <a href="https://kaminisabu.
 <br>
 In order to change the content of website, I need to go to <a href="https://bighome.iitb.ac.in/index.php/apps/files/?dir=/public_html&fileid=6936483">https://bighome.iitb.ac.in/index.php/apps/files/?dir=/public_html&fileid=6936483</a> and <a href="https://github.com/KaminiSabu/kaminisabu.github.io/edit/main/index.md">https://github.com/KaminiSabu/kaminisabu.github.io/edit/main/index.md</a>
 <br>
+
+Python Packages for Data Science:
+<br>
+  <ol>
+    <li> Data manipulation <\li>
+      <ul>
+        <li> Numpy </li>
+        <li> Scipy </li>
+        <li> Pandas </li>
+      </ul>
+    <li> Visualization <\li>
+      <ul>
+        <li> Matplotlib </li>
+        <li> Seaborn </li>
+        <li> Plotly </li>
+      </ul>
+    <li> Machine learning <\li>
+      <ul>
+        <li> Scikit-learn </li>
+        <li> Tensorflow </li>
+        <li> Keras </li>
+      </ul>
+    <li> Data scraping <\li>
+      <ul>
+        <li> Scrapy </li>
+    <li> NLP <\li>
+      <ul>
+        <li> NLTK </li>
+        <li> Gensim </li>
+      </ul>
+    <li> Statistics </li>
+      <ul>
+        <li> Statsmodels </li>
+      </ul>
+  </ol>
 </div>
