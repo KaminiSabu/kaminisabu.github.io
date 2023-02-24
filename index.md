@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <title>Kamini Sabu</title> <!-- title you see on the top title bar of browser tab -->
@@ -25,9 +24,9 @@ document.getElementById("defaultOpen").click();
   <h3>About</h3>
 <hr>
 <img style="padding:20px;" src= "k.jpg" width="120" height="150" alt= "photo" ALIGN="right">
-<p> Presently, Kamini is pursuing her PhD in Electronic Systems (Dept. of Electrical Engg.) at the Indian Institute of Technology Bombay, Mumbai, India under Prof. Preeti Rao. She is part of the LETS project for assessing children's speech. Her research publications can be found in publications tab.</p>
+<p> Kamini is lead engineer in ASR preprocessing team at Samsung Research Institute Bangalore. She holds PhD in Electronic Systems (Dept. of Electrical Engg.) from the Indian Institute of Technology Bombay, Mumbai, India. She was part of the LETS project for assessing children's speech with Prof. Preeti Rao. Her research publications can be found in publications tab.</p>
 
-<p> Her main area of research interests include Speech Prosody, Speech Recognition, Speech Synthesis, Audio Signal Processing, Machine Learning, Natural Language Processing and Image Processing.</p>
+<p> Her main area of research interests include Speech Prosody, Speech Preprocessing, Speech Recognition, Speech Synthesis, Machine Learning, Natural Language Processing and Image Processing.</p>
 
 <p> She can be contacted at <a href="mailto:kaminimsabu@gmail.com">kaminimsabu@gmail.com</a>
 </div>
@@ -44,7 +43,7 @@ document.getElementById("defaultOpen").click();
 <col width="100px" />
 <col width="100px" />
 <tr><th> Examination </th><th> University </th><th> Institute </th><th> Year </th><th> CPI/% </th></tr>
-<tr><td> PhD (Electronic Systems) </td><td> IIT Bombay </td><td> IIT Bombay </td><td style="text-align:center"> 2021(expected) </td><td style="text-align:center"> 9.12 </td></tr>
+<tr><td> PhD (Electronic Systems) </td><td> IIT Bombay </td><td> IIT Bombay </td><td style="text-align:center"> 2022 </td><td style="text-align:center"> 9.12 </td></tr>
 <tr><td> M.E. (Digital Systems) </td><td> North Maharashtra University </td><td>Govt. College of Engg., Jalgaon</td><td style="text-align:center"> 2015 </td><td style="text-align:center"> 68.05 </td></tr>
 <tr><td> B.E. (Elect. & Telecom. Engg.) </td><td> North Maharashtra University </td><td>Govt. College of Engg., Jalgaon</td><td style="text-align:center"> 2013 </td><td style="text-align:center"> 71.07 </td></tr>
 </table>
